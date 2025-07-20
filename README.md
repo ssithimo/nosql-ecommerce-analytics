@@ -77,6 +77,10 @@ The task is to use MongoDB’s flexible document model to simulate the data, tra
 
 ## 🧪 How to Run
 1. Clone the repo
+```bash
+git clone https://github.com/ssithimo/nosql-ecommerce-analytics.git
+cd nosql-ecommerce-analytics
+```
 
 2. Connect to MongoDB Atlas or a local instance using mongosh
 
