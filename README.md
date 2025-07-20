@@ -86,9 +86,9 @@ cd nosql-ecommerce-analytics
 
 3. Run scripts:
 ```bash
-mongosh "your_connection_string" insert_sales_data.js
-mongosh "your_connection_string" aggregate_monthly_sales.js
-.
-.
-.
+mongosh "your_connection_string" insert-sales-data.js
+mongosh "your_connection_string" agg-monthly-sales.js
+mongosh "your_connection_string" create-index-and-query.js
+mongosh "your_connection_string" new-cust-orders.js
+mongosh "your_conneciton_string" query-new-cust-orders.js
 ```
